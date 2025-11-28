@@ -44,7 +44,7 @@ app:
         arn: arn:aws:iam::592157396942:role/IBM_EASeJ_Service_20251014-0723-2300-40bd-d5ad7c120a52
         logGroup: EASeJdaytrader
 
-  version: "feb07ce5-c950-419b-b044-add0382a0339"
+  version: ""
 # probes
 # dynamic scaling
 # scaling to 0
